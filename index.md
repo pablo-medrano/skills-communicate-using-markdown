@@ -9,3 +9,6 @@ y = 4
 res = x+y
 print(res)
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
